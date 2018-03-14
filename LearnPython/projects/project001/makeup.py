@@ -12,6 +12,7 @@ from util import *
 from rules import *
 
 
+
 class Parser:
     """
     A parser reads a text file,applying rules and controlling a handler.
